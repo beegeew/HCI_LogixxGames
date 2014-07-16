@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="tictacblank">blank.png</file>
+        <file alias="tictacx">x.png</file>
+        <file alias="tictaco">o.png</file>
+        <file alias="tictacowin">owin.png</file>
+        <file alias="tictacxwin">xwin.png</file>
+        <file alias="sudokublank">sudokublank.png</file>
+        <file alias="sudokuselect">sudokuselect.png</file>
+        <file alias="logixxlogo">logixxgameslogo.png</file>
+        <file alias="four">four.png</file>
+        <file alias="lamp">lamp.png</file>
+        <file alias="one">one.png</file>
+        <file alias="three">three.png</file>
+        <file alias="two">two.png</file>
+        <file alias="zero">zero.png</file>
+        <file alias="random">random.png</file>
+        <file alias="sudoku1">sudoku1.png</file>
+        <file alias="sudokubackground">sudokulayout.png</file>
+        <file alias="sudokuIcon">sudokuIcon.png</file>
+        <file alias="tictac">tictactoepic.gif</file>
+        <file alias="win">win.png</file>
+        <file alias="highlight">highlight.png</file>
+    </qresource>
+</RCC>
